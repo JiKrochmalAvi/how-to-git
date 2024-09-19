@@ -18,10 +18,6 @@ with
             ) = 1
     )
 select
-    c.CompanyAccountID as CancelingCompanyAccountID,
-    c._AccountCancelingKey as _AccountCancelingKey,
-    c.CompanyName as CancelingCompanyName,
-    c.CompanyID as CancelingCompanyID,
     c.AccountType as CancelingAccountType,
     c.AccountSystemEmail as CancelingAccountSystemEmail,
     c.AccountSecurityEmail as CancelingAccountSecurityEmail,
