@@ -9,3 +9,4 @@ https://ohshitgit.com
 - Commits
 - Remotes
 - Branches
+- Pull Requests and Code Reviews
